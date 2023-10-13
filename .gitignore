@@ -70,3 +70,7 @@ dependency_links.txt
 requires.txt
 SOURCES.txt
 top_level.txt
+
+env
+examples
+python/fate_client
